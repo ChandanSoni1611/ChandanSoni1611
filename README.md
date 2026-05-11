@@ -23,7 +23,7 @@ Currently, I am working on building real-world AI solutions and improving my pro
 
 💻 Programming
 
-Python
+Python , Java
 
 🤖 AI/ML
 
